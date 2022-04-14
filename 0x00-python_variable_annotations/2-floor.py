@@ -3,6 +3,6 @@
 import math
 
 
-def floor(n: float) -> float:
+def floor(n: float) -> int:
     """this function  returns a concatenated string"""
     return math.floor(n)
