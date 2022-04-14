@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""annotated function, takes floats as argument, returns their sum as a float"""
+"""annotated function, takes floats as argument, returns sum as a float"""
 from typing import List
 
 
